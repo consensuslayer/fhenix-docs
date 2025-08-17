@@ -38,7 +38,7 @@ To start a LocalFhenix instance, run the following command:
 pnpm localfhenix:start
 ```
 
-This will start a LocalFhenix instance in a docker container, managed by the `fhenix-hardhat-docker` plugin for Hardhat. 
+This will start a LocalFhenix instance in a Docker container, managed by the `fhenix-hardhat-docker` plugin for Hardhat. 
 If this worked you should see a `LocalFhenix started` message in your console.
 
 You've now officially created a LocalFhenix testnet. 🎉
