@@ -80,7 +80,7 @@ constructor(string memory name, string memory symbol) ERC20(name, symbol) {
 
 #### Wrap
 
-First, let's define a function `wrap(uint32 amount)` that allows users to convert (wrap) their tokens into encrypted form. 
+First, let's define a function `wrap(uint32 amount)` that allows users to convert (wrap) their tokens into an encrypted form. 
 The function will burn a specified amount from the user's balance and add the same amount to their encrypted balance.
 
 ```javascript
