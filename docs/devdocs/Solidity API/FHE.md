@@ -180,7 +180,7 @@ Pure in this function is marked as a hack/workaround - note that this function i
 function sealoutput(ebool value, bytes32 publicKey) internal pure returns (string)
 ```
 
-performs the sealoutput function on a ebool ciphertext. This operation returns the plaintext value, sealed for the public key provided
+performs the sealoutput function on an ebool ciphertext. This operation returns the plaintext value, sealed for the public key provided
 
 _Pure in this function is marked as a hack/workaround - note that this function is NOT pure as fetches of ciphertexts require state access_
 
