@@ -48,7 +48,7 @@ We have public endpoints available for the Nitrogen Testnet, which can be used:
 
 If you require specialized endpoints, or higher rate limits than the default please reach out to us on [Discord](https://discord.gg/FuVgxrvJMY) or [email](mailto://info@fhenix.io).
 
-## Cross Chain Messaging Contracts
+## Cross-Chain Messaging Contracts
 
 The following contracts are deployed on Ethereum Sepolia and may be used by developers that wish to interact with Fhenix in a similar way to Arbitrum
 
