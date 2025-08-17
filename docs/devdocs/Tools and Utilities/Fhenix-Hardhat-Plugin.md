@@ -81,7 +81,7 @@ After importing `fhenix-hardhat-plugin` hardhat will automatically extend the Ha
 
 To set up a localfhenix instance, simply import `fhenix-hardhat-docker`. This will add two new hardhat tasks:
 
-- **`localfhenix:start`** To start a local dev environment using docker. By default, the instance will listen for rpc connections on port `42069`
+- **`localfhenix:start`** To start a local dev environment using Docker. By default, the instance will listen for RPC connections on port `42069`
 - **`localfhenix:stop`** Stops the docker container
 
 To start the container:
