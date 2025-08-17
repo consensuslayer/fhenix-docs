@@ -25,7 +25,7 @@ Here you can find a list of some cool apps that you can use as a reference
 <td>Blind Auction</td>
 <td><a href="https://github.com/FhenixProtocol/blind-auction-example">View on Github</a></td>
 <td><a href="https://github.com/FhenixProtocol/blind-auction-example/tree/main/frontend">View on Github</a></td>
-<td>An auction in which is bid is kept encrypted until the Auction ends and the winner is revealed.</td>
+<td>An auction in which the bid is kept encrypted until the Auction ends and the winner is revealed.</td>
 </tr>
 
 [//]: # (<tr>)
