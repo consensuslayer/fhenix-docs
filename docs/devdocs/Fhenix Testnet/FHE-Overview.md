@@ -23,7 +23,7 @@ The GSW scheme introduces a unique approach for performing homomorphic operation
 
 ### FHEW Scheme
 
-The FHEW scheme is an optimized version of the GSW scheme, focusing on bootstrapping efficiency. It treats decryption as an arithmetic function rather than a boolean circuit. This RLWE variant incorporates several optimizations, making GSW-based bootstrapping faster than the BGV scheme. Key improvements include:
+The FHEW scheme is an optimized version of the GSW scheme, focusing on bootstrapping efficiency. It treats decryption as an arithmetic function rather than a Boolean circuit. This RLWE variant incorporates several optimizations, making GSW-based bootstrapping faster than the BGV scheme. Key improvements include:
 
 1. Restricting computations to a binary message space and using a NAND gate for homomorphic operations.
 2. Enabling the evaluation of arbitrary functions via lookup tables during bootstrapping, known as “programmable bootstrapping.”
